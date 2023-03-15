@@ -12,6 +12,31 @@ div.nav1 {
     padding: 10px;
     margin: -1.05%;
 }
+nav ul {
+    margin-inline: 20%;
+    padding: auto;
+    list-style-type: none;
+    flex: 2;
+    display: flex;
+    background-color: #1c54cc;
+}
+
+nav li {
+    display: inline;
+    text-align: center;
+    flex: 1;
+}
+
+li {
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+
+nav,
+footer {
+    padding: 1%;
+}
+
 section {
     background: white;
     border-radius: 10px;
