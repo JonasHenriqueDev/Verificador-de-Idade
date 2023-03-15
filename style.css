@@ -2,12 +2,16 @@ body {
     background: rgb(110, 110, 219);
     font: arial;
 }
-
-header {
-    color: white;
-    text-align: center;
+div.header1 {
+    background-color: #2168ff;
+    padding: 2%;
 }
 
+div.nav1 {
+    background-color: #1c54cc;
+    padding: 10px;
+    margin: -1.05%;
+}
 section {
     background: white;
     border-radius: 10px;
